@@ -15,20 +15,10 @@ def query_avg_per_year(dataframe, year):
     swap = []
     for i in df:
         swap.append(i)
-        
     return swap
 
 
 def avg(df, season, year):
-    """ Docs and Reference
-        * [loc] 
-            (https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.loc.html)
-            (https://stackoverflow.com/questions/17071871/how-to-select-rows-from-a-dataframe-based-on-column-values)
-        * [iloc]
-            (https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.iloc.html)
-            (https://stackoverflow.com/questions/14941097/selecting-pandas-column-by-location)
-        * [df to csv](https://stackoverflow.com/questions/16923281/writing-a-pandas-dataframe-to-csv-file)
-    """
     del df['MM']
     del df['coleta']
     this = pd.DataFrame(df.iloc[[0]]) # set header of dataframe

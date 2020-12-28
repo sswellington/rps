@@ -7,10 +7,6 @@ from Log import *
 PATH = 'database/'
 
 
-def getColumn(df, dimension):
-    return (df.iloc[:, dimension])
-
-
 def plot(x, y, title, unit):
     plt.plot(x, y[0], label = "Verão", color="r", marker=".")
     plt.plot(x, y[1], label = "Outono", color="darkorange", marker=".")
@@ -55,7 +51,7 @@ if __name__ == "__main__" :
     df_i = pd.read_csv(PATH+'avg/'+tp_season[2].lower()+'.csv')
     df_p = pd.read_csv(PATH+'avg/'+tp_season[3].lower()+'.csv')
     
-    x = getColumn(df_v, 0)
+    x = df_v.iloc[:, 0]
     
     for i in range(len(title)):
         y = []
@@ -63,12 +59,6 @@ if __name__ == "__main__" :
         y.append(df_o.iloc[:, i+1])
         y.append(df_i.iloc[:, i+1])
         y.append(df_p.iloc[:, i+1])
-        
-        # y.append(getColumn(df_v, (i+1)))
-        # y.append(getColumn(df_o, (i+1)))
-        # y.append(getColumn(df_i, (i+1)))
-        # y.append(getColumn(df_p, (i+1)))
-        
         plot(x, y, title[i], unit[i])
         
     l.time('view')

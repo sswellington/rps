@@ -7,19 +7,6 @@ PATH = 'database/'
 
 
 def split(df, season):
-    """ Docs and Reference 
-        * [loc]
-            (https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.loc.html)
-            (https://stackoverflow.com/questions/17071871/how-to-select-rows-from-a-dataframe-based-on-column-values)
-        * [Remove Columns](https://stackoverflow.com/questions/13411544/delete-column-from-pandas-dataframe)
-            del
-                del df['column_name']
-                del df.column_name
-            drop
-                df.drop(columns=['coleta', 'MM'])
-                df.drop(['coleta', 'MM'], axis=1, inplace=True)
-        * [Dataframe to CSV](https://stackoverflow.com/questions/16923281/writing-a-pandas-dataframe-to-csv-file)
-    """
     df = df.loc[df['estação'] == season]
     del df['estação']
     df.to_csv(PATH+'split/'+season.lower()+'.csv', encoding='utf-8', index=False)
