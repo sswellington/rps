@@ -16,3 +16,15 @@ Refences
 
 ## Steps
 * Split database RPS in Meteorological Seasons
+* Annual average per Meteorological Seasons
+* View Meteorological Seasons
+    * Negative correlation between: 
+        * PO4 and vazão
+        * MPS and vazão
+        * CL and vazão
+        * Ca and vazão
+        * K and vazão
+    * Positive correlation between SO and vazão
+    * Insignificant:
+        * Temperatura
+        * Condutividade
