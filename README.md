@@ -14,17 +14,20 @@ Refences
 
 ---
 
-## Steps
+## Data Science
+
+### Define the goal :construction:
+
+### Get the data :heavy_check_mark:
+
+### Clean the data :construction:
 * Split database RPS in Meteorological Seasons
-* Annual average per Meteorological Seasons
+* Annual arithmetic average per Meteorological Seasons
 * View Meteorological Seasons
-    * Negative correlation between: 
-        * PO4 and vazão
-        * MPS and vazão
-        * CL and vazão
-        * Ca and vazão
-        * K and vazão
-    * Positive correlation between SO and vazão
-    * Insignificant:
-        * Temperatura
-        * Condutividade
+    *  Pearson correlation coefficient
+    
+### Enrich the data
+
+### Find insights and visualize :construction:
+
+### Deploy

@@ -1,7 +1,6 @@
 import csv
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 
 
 class Season(object):
@@ -53,19 +52,3 @@ class Season(object):
             year += 1     
         
         this.to_csv(self._path+'avg/'+season.lower()+'.csv', encoding='utf-8', index=False)
-    
-        
-    def plot(self, x, y, title, unit):
-        plt.plot(x, y[0], label = "Verão", color="r", marker=".")
-        plt.plot(x, y[1], label = "Outono", color="darkorange", marker=".")
-        plt.plot(x, y[2], label = "Inverno", color="b", marker=".")
-        plt.plot(x, y[3], label = "Primavera", color="g", marker=".")
-        plt.grid()
-        
-        plt.title(title+" do Rio Paraíba do Sul")
-        plt.xlabel("Anos")
-        plt.ylabel(title+' ('+ unit+')')
-        plt.legend()
-        plt.savefig('view/'+title+'.pdf', dpi=300) 
-        plt.cla()   # Clear axis
-        plt.clf()   # Clear figure
