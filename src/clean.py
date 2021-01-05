@@ -13,20 +13,23 @@ if __name__ == "__main__" :
             [USP](https://www.iag.usp.br/astronomia/inicio-das-estacoes-do-ano)
             [Fiocruz](http://www.fiocruz.br/biosseguranca/Bis/infantil/estacoes-ano.htm#:~:text=Todo%20mundo%20j%C3%A1%20sabe%20que,do%20sol%2C%20dura%20um%20ano.)
     '''
-    l = Log()
+    l = Log('clean')
     tp_season = ('V','O','I','P')
-    season = Season('database/rps.csv')
+    season = Season('database/source.csv')
     
     
     ''' SPLIT ''' 
     for s in tp_season: 
         season.split(s)
+        season.info()
     
     
     ''' AVG '''
-    for s in tp_season: 
-        year = 1995
-        season.set_dataframe('database/split/'+s.lower()+'.csv')
-        season.avg(s, year, 25)
+    # for s in tp_season: 
+    #     year = 1995
+    #     season.set_dataframe('database/split/'+s.lower()+'.csv')
+    #     season.avg(s, year, 25)
     
-    l.time('season')
+
+    l.debug(season.shape())
+    l.time()

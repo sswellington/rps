@@ -21,12 +21,12 @@ class Season(object):
         * [Dataframe to CSV](https://stackoverflow.com/questions/16923281/writing-a-pandas-dataframe-to-csv-file)
     '''
     
-    def __init__(self, dataframe):
-        self._df = pd.read_csv(dataframe) 
+    def __init__(self, path):
+        self._df = pd.read_csv(path) 
         
     
-    def set_dataframe(self, dataframe):
-        self._df = pd.read_csv(dataframe) 
+    def set_dataframe(self, path):
+        self._df = pd.read_csv(path) 
     
     
     def get_dataframe(self):
@@ -35,11 +35,14 @@ class Season(object):
     
     def len_columns(self):
         return len(self._df.columns)
-        
     
     
     def info(self):
         return self._df.info()    
+    
+    
+    def shape(self):
+        return self._df.shape
         
         
     def query_avg_per_year(self, year):
@@ -56,8 +59,8 @@ class Season(object):
     
     
     def split(self, season):
-        df = self._df.loc[self._df['estação'] == season]
-        del df['estação']
+        df = self._df.loc[self._df['class'] == season]
+        del df['class']
         self.dataframe_2_csv(df, ('database/split/'+season.lower()+'.csv'))
     
     
