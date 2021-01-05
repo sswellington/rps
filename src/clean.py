@@ -1,5 +1,5 @@
-from Log import *
-from Season import *
+from library.Log import Log
+from library.Season import Season
 
 
 # clean the data
@@ -14,21 +14,19 @@ if __name__ == "__main__" :
             [Fiocruz](http://www.fiocruz.br/biosseguranca/Bis/infantil/estacoes-ano.htm#:~:text=Todo%20mundo%20j%C3%A1%20sabe%20que,do%20sol%2C%20dura%20um%20ano.)
     '''
     l = Log()
-    PATH = 'database/'
-    season = Season(PATH)
     tp_season = ('V','O','I','P')
+    season = Season('database/rps.csv')
     
     
     ''' SPLIT ''' 
-    dataframe = pd.read_csv(PATH+'rps.csv')   
     for s in tp_season: 
-        season.split(dataframe,s)
+        season.split(s)
     
     
     ''' AVG '''
     for s in tp_season: 
         year = 1995
-        df = pd.read_csv(PATH+'split/'+s.lower()+'.csv')
-        season.avg(df, s, year)
+        season.set_dataframe('database/split/'+s.lower()+'.csv')
+        season.avg(s, year, 25)
     
     l.time('season')

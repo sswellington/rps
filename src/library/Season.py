@@ -21,34 +21,56 @@ class Season(object):
         * [Dataframe to CSV](https://stackoverflow.com/questions/16923281/writing-a-pandas-dataframe-to-csv-file)
     '''
     
-    def __init__(self, path):
-        self._path = path
-    
+    def __init__(self, dataframe):
+        self._df = pd.read_csv(dataframe) 
         
-    def query_avg_per_year(self, dataframe, year):
-        df = dataframe.loc[dataframe['YYYY'] == year]
+    
+    def set_dataframe(self, dataframe):
+        self._df = pd.read_csv(dataframe) 
+    
+    
+    def get_dataframe(self):
+        return self._df
+    
+    
+    def len_columns(self):
+        return len(self._df.columns)
+        
+    
+    
+    def info(self):
+        return self._df.info()    
+        
+        
+    def query_avg_per_year(self, year):
+        df = self._df.loc[self._df['YYYY'] == year]
+        
         df = np.array(df, dtype=float)
         df = pd.DataFrame(df)
         df = (df.mean())
+        
         swap = []
         for i in df:
             swap.append(i)
         return swap
     
     
-    def split(self, df, season):
-        df = df.loc[df['estação'] == season]
+    def split(self, season):
+        df = self._df.loc[self._df['estação'] == season]
         del df['estação']
-        df.to_csv(self._path+'split/'+season.lower()+'.csv', encoding='utf-8', index=False)
+        self.dataframe_2_csv(df, ('database/split/'+season.lower()+'.csv'))
     
     
-    def avg(self, df, season, year):
-        del df['MM']
-        del df['coleta']
-        this = pd.DataFrame(df.iloc[[0]]) # set header of dataframe
+    def avg(self, season, year, period_in_year):
+        del self._df['MM']
+        del self._df['coleta']
+        this = pd.DataFrame(self._df.iloc[[0]]) # set header of dataframe
         
-        for x in range(25):
-            this.loc[x] = self.query_avg_per_year(df,year)      
+        for x in range(period_in_year):
+            this.loc[x] = self.query_avg_per_year(year)      
             year += 1     
+        self.dataframe_2_csv(this, ('database/avg/'+season.lower()+'.csv'))
+      
         
-        this.to_csv(self._path+'avg/'+season.lower()+'.csv', encoding='utf-8', index=False)
+    def dataframe_2_csv(self, dataframe, path):
+        dataframe.to_csv(path, encoding='utf-8', index=False)  

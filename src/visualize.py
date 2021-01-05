@@ -1,7 +1,7 @@
 import pandas as pd
 
-from Log import *
-from Graph import *
+from library.Log import Log
+from library.Graph import Graph
 
 PATH = 'database/'
 

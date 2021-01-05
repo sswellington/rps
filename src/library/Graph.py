@@ -68,9 +68,9 @@ class Graph(object):
         
     def save_heatmap(self,title, graph):
         plt.title(title)
-        plt.savefig('view/'+graph+'/pearson.pdf', dpi=300) 
-        # plt.cla()   # Clear axis
-        # plt.clf()   # Clear figure
+        plt.savefig('view/'+graph+'/pearson-'+title+'.pdf', dpi=300) 
+        plt.cla()   # Clear axis
+        plt.clf()   # Clear figure
         
         
     def heatmap(self, corr, output):

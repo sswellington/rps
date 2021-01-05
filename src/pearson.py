@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-from Graph import *
+from library.Graph import Graph
 
 
 PATH = 'database/'
