@@ -2,22 +2,18 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-PATH = 'database/'
-
+PATH = 'database/preprocessing.csv'
 
 if __name__ == "__main__" :
-    tp_season = ('V','O','I','P')
-    header = ('Vazão','Temperatura','pH','Condutividade','OD',
-            'HCO3','MPS','Clorofila','COD',
-            'NO2','NO3','NH4','NID','N','NT','NOD',
-            'NP','PO4','PTD','PT','POD','PP','Silica',
-            'Cl','SO4','Na','Ca','K','Mg')
-
-    lower = tp_season[0].lower()
-
-    df = pd.read_csv(PATH+'avg/'+lower+'.csv')
+    label = ('V','O','I','P')
+    header = ('Vazão', 'Temperatura', 'pH', 'Condutividade', 'OD',
+              'HCO3', 'MPS','Clorofila', 'COD',
+              'NO', 'NO.1', 'NH', 'NI', 'N', 'NT', 'NOD',
+              'NP', 'PO4', 'PTD', 'PT', 'PO', 'PP', 'Silica', 
+              'Cl', 'SO4', 'Na', 'Ca', 'K', 'Mg')
 
     len_header = len(header)
+    df = pd.read_csv(PATH)
     
     for i in range(len_header):
         for j in range(len_header):

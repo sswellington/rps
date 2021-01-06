@@ -18,16 +18,13 @@ Refences
 
 ### Define the goal :construction:
 
-### Get the data :heavy_check_mark:
+### Selection the data :heavy_check_mark:
 
-### Clean the data :construction:
-* Split database RPS in Meteorological Seasons
-* Annual arithmetic average per Meteorological Seasons
-* View Meteorological Seasons
-    *  Pearson correlation coefficient
+### Preprocessing :heavy_check_mark:
+* Eliminate irrelevant attributes
+* Stratified sampling: annual arithmetic average per Meteorological Seasons
     
-### Enrich the data
+### Transformation
 
-### Find insights and visualize :construction:
 
-### Deploy
+### Data Mining

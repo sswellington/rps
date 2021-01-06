@@ -4,13 +4,10 @@ import matplotlib.pyplot as plt
 
 class Graph(object):
 
-    def __init__(self, name, header, unit):
+    def __init__(self, name):
         self._name = name
         self._marker = '.'
         self._color = ['r','darkorange','b','g']
-        self._header = header
-        self._unit = unit
-    
 
     def set_color(self, color):
         self._color = color
@@ -67,7 +64,7 @@ class Graph(object):
         
         
     def save_heatmap(self,title, graph):
-        plt.title(title)
+        plt.title(self._name+': '+title)
         plt.savefig('view/'+graph+'/pearson-'+title+'.pdf', dpi=300) 
         plt.cla()   # Clear axis
         plt.clf()   # Clear figure
@@ -107,4 +104,4 @@ class Graph(object):
             label.set_rotation(90)
         for artist in g.legend.legendHandles:
             artist.set_edgecolor(".7")
-        self.save_heatmap(output, 'sheatmap')
+        self.save_heatmap(output, 'heatmap-scatter')
