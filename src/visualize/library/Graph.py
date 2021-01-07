@@ -39,20 +39,6 @@ class Graph(object):
         plt.ylabel(ylabel)
         plt.grid()
         
-
-    def line(self, x, y, xlabel, ylabel, legend):
-        plt.plot(x, y, label = legend, color=self._color, marker=self._marker)
-        plt.legend()
-        self.text('', ylabel)
-        self.save('view/line/'+ ylabel)
-        
-        
-    def scatter(self, x, y, xlabel, ylabel, legend):
-        plt.scatter(x, y, label = legend, color=self._color, marker=self._marker)
-        plt.legend()
-        self.text(xlabel, ylabel)
-        self.save('view/scatter/'+ xlabel +'-vs-'+ ylabel)
-        
         
     def boxplot(self, y, axes, title):
         plt.boxplot(y)

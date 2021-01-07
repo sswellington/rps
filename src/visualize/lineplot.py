@@ -4,11 +4,13 @@ import matplotlib.pyplot as plt
 
 PATH = 'database/preprocessing.csv'
 LABEL = ('V','O','I','P')
-# UNIT = ('m³/s','ºC','','µS/cm','mg/L',
-#         'meq/L','mg/L','mg/L','mg/L',
-#         'µM','µM','µM','µM','µM','µM','µM',
-#         'µM','µM','µM','µM','µM', 'µM','µM',
-#         'mg/L','mg/L','mg/L','mg/L','mg/L','mg/L','')
+UNIT = ('m³/s','ºC','','µS/cm','mg/L',
+        'meq/L','mg/L','mg/L','mg/L',
+        'µM','µM','µM','µM','µM','µM','µM',
+        'µM','µM','µM','µM','µM', 'µM','µM',
+        'mg/L','mg/L','mg/L','mg/L','mg/L','mg/L','')
+LINE_STYLE = ('-', '--', '-.',':')
+SEASON = ('Verão', 'Outono', 'Inverno', 'Primavera')
 
 
 if __name__ == "__main__" :
@@ -19,30 +21,36 @@ if __name__ == "__main__" :
     final_year = int(df['YYYY'].max()) + 1
     del df['YYYY']
     
+    x = []
+    for i in range(starting_year, final_year):
+        x.append(i)
+        
     header = []
     for i in df.columns: 
         header.append(i)
     header.pop()
     
-    x = []
-    for i in range(starting_year, final_year):
-        x.append(i)
-    
-    for i in range(1):
+    c = 0
+    for i in range(len(header)):
         swap = header.pop(0)
+        k = 0
         for j in LABEL:
-            y = []
             query = df[df['class'] == j]
-            y.append(query.iloc[:, 0])
+            y = (query.iloc[:, 0])
             del query
             
-            plt.plot(x, y, label = "blue", color="b", marker=".")
-
-            plt.title('Example: graph')
-            plt.xlabel("X axis")
-            plt.ylabel("Y axis")
-            plt.legend()
+            plt.plot(x, y, label = SEASON[k], linestyle = LINE_STYLE[k], marker = '.')
+            k += 1
             
-            plt.savefig('view/line/a.pdf', dpi=300)
-                
+        plt.title('Rio Paraíba do Sul: ' + swap)
+        plt.xlabel('Anos')
+        plt.ylabel(swap + ' - ' + UNIT[c])
+        plt.legend()
+        plt.grid()
+    
+        plt.savefig('view/line/'+ swap +'.pdf', dpi=300)
+        plt.cla()   # Clear axis
+        plt.clf()   # Clear figure
+        
+        c += 1    
         df = df.drop(df.columns[0], axis=1)
