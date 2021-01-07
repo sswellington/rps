@@ -30,3 +30,12 @@
     * heatmap
     * scatter
     * scatter heatmap
+* refactor
+* docs
+
+### 0.1.3
+* concentration of the data
+    * boxplot
+    * violinplot
+* plot
+

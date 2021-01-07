@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 
 class Graph(object):
 
-    def __init__(self, name):
-        self._name = name
+    def __init__(self):
+        self._name = 'Rio Paraíba do Sul'
         self._marker = '.'
         self._color = ['r','darkorange','b','g']
 
@@ -26,13 +26,11 @@ class Graph(object):
 
 
     def text(self, xlabel, ylabel, graph):
-        xheader = self._header[xlabel]
-        yheader = self._header[ylabel]
-        plt.title(xheader+' e '+yheader+' do '+self._name)
-        plt.xlabel(xheader+' '+ self._unit[xlabel])
-        plt.ylabel(yheader+' '+ self._unit[ylabel])
+        plt.title(xlabel+' e '+ylabel+' do '+self._name)
+        plt.xlabel(xlabel)
+        plt.ylabel(ylabel)
         plt.grid()
-        plt.savefig('view/'+graph+'/'+xheader+'-vs-'+yheader+'.pdf', dpi=300) 
+        plt.savefig('view/'+graph+'/'+xlabel+'-vs-'+ylabel+'.pdf', dpi=300) 
         plt.cla()   # Clear axis
         plt.clf()   # Clear figure
         
@@ -54,13 +52,15 @@ class Graph(object):
     def boxplot(self, y, xlabel, ylabel):
         plt.boxplot(y)
         plt.grid()
-        self.text(xlabel, ylabel, 'boxplot')
+        plt.savefig('view/'+'boxplot/test')
+        # self.text(xlabel, ylabel, 'boxplot')
         
         
     def violinplot(self, y, xlabel, ylabel):
         plt.violinplot(y)
         plt.grid()
-        self.text(xlabel, ylabel, 'violinplot')
+        plt.savefig('view/'+'violinplot/test')
+        # self.text(xlabel, ylabel, 'violinplot')
         
         
     def save_heatmap(self,title, graph):
@@ -87,7 +87,7 @@ class Graph(object):
         self.save_heatmap(output, 'heatmap')
         
     
-    def s_heatmap(self, corr, output):
+    def heatmap_scatter(self, corr, output):
         # Draw each cell as a scatter point with varying size and color
         g = sns.relplot(
             data=corr,

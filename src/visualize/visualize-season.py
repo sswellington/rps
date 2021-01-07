@@ -3,7 +3,8 @@ import pandas as pd
 from library.Log import Log
 from library.Graph import Graph
 
-PATH = 'database/'
+
+PATH = 'database/preprocessing.csv'
 
 
 if __name__ == "__main__" :
