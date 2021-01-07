@@ -2,12 +2,14 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-class Graph(object):
 
+class Graph(object):
+    
     def __init__(self):
         self._name = 'Rio Paraíba do Sul'
         self._marker = '.'
         self._color = ['r','darkorange','b','g']
+
 
     def set_color(self, color):
         self._color = color
@@ -24,70 +26,66 @@ class Graph(object):
     def set_unit(self, unit):
         self._unit = unit
 
+    
+    def save(self, path):
+        plt.savefig(path + '.pdf', dpi = 300)
+        plt.cla()   # Clear axis
+        plt.clf()   # Clear figure
 
-    def text(self, xlabel, ylabel, graph):
+
+    def text(self, xlabel, ylabel):
         plt.title(xlabel+' e '+ylabel+' do '+self._name)
         plt.xlabel(xlabel)
         plt.ylabel(ylabel)
         plt.grid()
-        plt.savefig('view/'+graph+'/'+xlabel+'-vs-'+ylabel+'.pdf', dpi=300) 
-        plt.cla()   # Clear axis
-        plt.clf()   # Clear figure
         
 
-    def plot(self, x, y, xlabel, ylabel, legend):
-        for i in range(len(y)):
-            plt.plot(x, y[i], label = legend[i], color=self._color[i], marker=self._marker)
+    def line(self, x, y, xlabel, ylabel, legend):
+        plt.plot(x, y, label = legend, color=self._color, marker=self._marker)
         plt.legend()
-        self.text(xlabel, ylabel, 'plot')
+        self.text('', ylabel)
+        self.save('view/line/'+ ylabel)
         
         
     def scatter(self, x, y, xlabel, ylabel, legend):
-        for i in range(len(y)):
-            plt.scatter(x, y[i], label = legend[i], color=self._color[i], marker=self._marker)
+        plt.scatter(x, y, label = legend, color=self._color, marker=self._marker)
         plt.legend()
-        self.text(xlabel, ylabel, 'scatter')
+        self.text(xlabel, ylabel)
+        self.save('view/scatter/'+ xlabel +'-vs-'+ ylabel)
         
         
-    def boxplot(self, y, xlabel, ylabel):
+    def boxplot(self, y, axes, title):
         plt.boxplot(y)
-        plt.grid()
-        plt.savefig('view/'+'boxplot/test')
-        # self.text(xlabel, ylabel, 'boxplot')
+        self.text('Estação', axes)
+        self.save('view/boxplot/' + axes +'-'+ title)
         
         
-    def violinplot(self, y, xlabel, ylabel):
+    def violinplot(self, y, axes, title):
         plt.violinplot(y)
-        plt.grid()
-        plt.savefig('view/'+'violinplot/test')
-        # self.text(xlabel, ylabel, 'violinplot')
+        self.text('Estação', axes)
+        self.save('view/violinplot/' + axes +'-'+ title)
         
         
-    def save_heatmap(self,title, graph):
-        plt.title(self._name+': '+title)
-        plt.savefig('view/'+graph+'/pearson-'+title+'.pdf', dpi=300) 
-        plt.cla()   # Clear axis
-        plt.clf()   # Clear figure
-        
-        
-    def heatmap(self, corr, output):
+    def heatmap(self, corr, title):
         # Generate a mask for the upper triangle
         mask = np.triu(np.ones_like(corr, dtype=bool))
 
         # Set up the matplotlib figure
-        f, ax = plt.subplots(figsize=(11, 9))
+        f, ax = plt.subplots(figsize = (11, 9))
 
         # Generate a custom diverging colormap
-        cmap = sns.diverging_palette(230, 20, as_cmap=True)
+        cmap = sns.diverging_palette(230, 20, as_cmap = True)
         # cmap = sns.color_palette("vlag", as_cmap=True)
 
         # Draw the heatmap with the mask and correct aspect ratio
-        sns.heatmap(corr, mask=mask, cmap=cmap, vmax=1.0, center=0,
-                    square=True, linewidths=.5)
-        self.save_heatmap(output, 'heatmap')
+        sns.heatmap(corr, mask = mask, cmap = cmap, vmax = 1.0, center = 0,
+                    square = True, linewidths = .5)
+        
+        plt.title(self._name +': '+ title)
+        self.save('view/heatmap/pearson-' + title)
         
     
-    def heatmap_scatter(self, corr, output):
+    def heatmap_scatter(self, corr, title):
         # Draw each cell as a scatter point with varying size and color
         g = sns.relplot(
             data=corr,
@@ -100,8 +98,11 @@ class Graph(object):
         g.set(xlabel="X", ylabel="Y", aspect="equal")
         g.despine(left=True, bottom=True)
         g.ax.margins(.02)
+        
         for label in g.ax.get_xticklabels():
             label.set_rotation(90)
         for artist in g.legend.legendHandles:
             artist.set_edgecolor(".7")
-        self.save_heatmap(output, 'heatmap-scatter')
+            
+        plt.title(self._name +': '+ title)
+        self.save('view/heatmap-scatter/pearson-' + title)
