@@ -35,9 +35,7 @@ if __name__ == "__main__" :
         swap = header.pop(0)
         k = 0
         for j in LABEL:
-            query = df[df['class'] == j]
-            y = (query.iloc[:, 0])
-            del query
+            y = ((df[df['class'] == j]).iloc[:, 0])
             
             plt.plot(x, y, label = SEASON[k], linestyle = LINE_STYLE[k], marker = '.')
             k += 1

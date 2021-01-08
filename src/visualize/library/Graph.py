@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 
 class Graph(object):
-    
+        
     def __init__(self):
         self._name = 'Rio Paraíba do Sul'
         self._marker = '.'
@@ -31,25 +31,6 @@ class Graph(object):
         plt.savefig(path + '.pdf', dpi = 300)
         plt.cla()   # Clear axis
         plt.clf()   # Clear figure
-
-
-    def text(self, xlabel, ylabel):
-        plt.title(xlabel+' e '+ylabel+' do '+self._name)
-        plt.xlabel(xlabel)
-        plt.ylabel(ylabel)
-        plt.grid()
-        
-        
-    def boxplot(self, y, axes, title):
-        plt.boxplot(y)
-        self.text('Estação', axes)
-        self.save('view/boxplot/' + axes +'-'+ title)
-        
-        
-    def violinplot(self, y, axes, title):
-        plt.violinplot(y)
-        self.text('Estação', axes)
-        self.save('view/violinplot/' + axes +'-'+ title)
         
         
     def heatmap(self, corr, title):

@@ -7,6 +7,7 @@ from library.Graph import Graph
 PATH = 'database/preprocessing.csv'
 LABEL = ('V','O','I','P')
 
+
 if __name__ == "__main__" :
     g = Graph()
     df = pd.read_csv(PATH)
