@@ -18,6 +18,7 @@ refactor
 * mv Class to lib folder
 * `install.py` create folder structure
 
+
 ## 0.1.0
 
 ### 0.1.1
@@ -45,3 +46,11 @@ refactor:
 * visualize
     * boxplot
 * rm log class
+
+
+## 0.2
+
+### 0.2.1
+dimensionality reduction
+feat: const class
+feat: logging

@@ -1,16 +1,14 @@
 import numpy as np
 import pandas as pd
 
+from library.Const import Const
 from library.Graph import Graph
 
 
-PATH = 'database/preprocessing.csv'
-LABEL = ('V','O','I','P')
-
-
 if __name__ == "__main__" :
+    const = Const()
     g = Graph()
-    df = pd.read_csv(PATH)
+    df = pd.read_csv(const.path)
     del df['YYYY']
     
     pearson = df.corr()
@@ -19,7 +17,7 @@ if __name__ == "__main__" :
     pearson = df.corr().stack().reset_index(name="correlation")
     g.heatmap_scatter(pearson, 'every')
     
-    for i in LABEL:
+    for i in const.label:
         query = df[df['class'] == i]
         
         pearson = df.corr()

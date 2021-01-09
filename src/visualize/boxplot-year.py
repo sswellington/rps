@@ -1,20 +1,14 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
+from library.Const import Const
 from library.Set_up import Set_up
 
 
-PATH = 'database/preprocessing.csv'
-
-
 if __name__ == "__main__" :
-    unit = ['m³/s','ºC','','µS/cm','mg/L',
-        'meq/L','mg/L','mg/L','mg/L',
-        'µM','µM','µM','µM','µM','µM','µM',
-        'µM','µM','µM','µM','µM', 'µM','µM',
-        'mg/L','mg/L','mg/L','mg/L','mg/L','mg/L']
-
-    df = pd.read_csv(PATH)
+    const = Const()
+    
+    df = pd.read_csv(const.path)
     del df['YYYY']
     del df['class']
     
@@ -26,7 +20,7 @@ if __name__ == "__main__" :
     for i in range(len(header)):
         y = (df.iloc[:, 0])
         df = df.drop(df.columns[0], axis=1)
-        su.set_up(header.pop(0), unit.pop(0))
+        su.set_up(header.pop(0), const.unit.pop(0))
         
         plt.boxplot(y)
         su.plt()

@@ -1,21 +1,16 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
+from library.Const import Const
 
-PATH = 'database/preprocessing.csv'
-LABEL = ('V','O','I','P')
-UNIT = ('m³/s','ºC','','µS/cm','mg/L',
-        'meq/L','mg/L','mg/L','mg/L',
-        'µM','µM','µM','µM','µM','µM','µM',
-        'µM','µM','µM','µM','µM', 'µM','µM',
-        'mg/L','mg/L','mg/L','mg/L','mg/L','mg/L','')
+
 LINE_STYLE = ('-', '--', '-.',':')
 SEASON = ('Verão', 'Outono', 'Inverno', 'Primavera')
 
 
 if __name__ == "__main__" :
-    
-    df = pd.read_csv(PATH)
+    const = Const()
+    df = pd.read_csv(const.path)
     
     starting_year = int(df['YYYY'].min())
     final_year = int(df['YYYY'].max()) + 1
@@ -34,7 +29,7 @@ if __name__ == "__main__" :
     for i in range(len(header)):
         swap = header.pop(0)
         k = 0
-        for j in LABEL:
+        for j in const.label:
             y = ((df[df['class'] == j]).iloc[:, 0])
             
             plt.plot(x, y, label = SEASON[k], linestyle = LINE_STYLE[k], marker = '.')
@@ -42,7 +37,7 @@ if __name__ == "__main__" :
             
         plt.title('Rio Paraíba do Sul: ' + swap)
         plt.xlabel('Anos')
-        plt.ylabel(swap + ' - ' + UNIT[c])
+        plt.ylabel(swap + ' - ' + const.unit[c])
         plt.legend()
         plt.grid()
     
