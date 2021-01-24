@@ -1,5 +1,5 @@
 import csv
-import pandas as pd
+from pandas import DataFrame as pd_DataFrame
 
 
 class Preprocessing(object):
@@ -29,7 +29,7 @@ class Preprocessing(object):
     
     
     def set_header(self, df):
-        self.df = pd.DataFrame(df.iloc[[0]])
+        self.df = pd_DataFrame(df.iloc[[0]])
     
     
     def query_year_and_label(self, year, label):
