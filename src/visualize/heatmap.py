@@ -1,14 +1,13 @@
 import numpy as np
-import pandas as pd
+from pandas import read_csv as pd_read_csv
 
-from library.Const import Const
-from library.Graph import Graph
+from library import Const, Graph
 
 
 if __name__ == "__main__" :
     const = Const()
     g = Graph()
-    df = pd.read_csv(const.path)
+    df = pd_read_csv(const.path)
     del df['YYYY']
     
     pearson = df.corr()
