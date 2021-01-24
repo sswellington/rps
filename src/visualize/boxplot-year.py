@@ -1,14 +1,13 @@
-import pandas as pd
 import matplotlib.pyplot as plt
+from pandas import read_csv as pd_read_csv
 
-from library.Const import Const
-from library.Set_up import Set_up
+from library import Const, Set_up
 
 
 if __name__ == "__main__" :
     const = Const()
     
-    df = pd.read_csv(const.path)
+    df = pd_read_csv(const.path)
     del df['YYYY']
     del df['class']
     
@@ -29,3 +28,4 @@ if __name__ == "__main__" :
         plt.violinplot(y)
         su.plt()
         su.save('view/violinplot/' + su.get_header() + '-every')
+        
