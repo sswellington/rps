@@ -1,8 +1,8 @@
 import logging
-import pandas as pd
 import matplotlib.pyplot as plt
+from pandas import read_csv as pd_read_csv
 
-from library.Const import Const
+from library import Const
 
 
 if __name__ == "__main__" :
@@ -13,7 +13,7 @@ if __name__ == "__main__" :
     logging.debug('Start of program')
     
     const = Const()
-    df = pd.read_csv(const.path)
+    df = pd_read_csv(const.path)
     del df['YYYY']
     del df['class']
     

@@ -1,5 +1,10 @@
 ### 0.2.2
-refactor: preprocessing
+refactor 
+* preprocessing
+* boxplot
+* heatmap
+* line
+* scatter 
 
 docs: changelog
 
