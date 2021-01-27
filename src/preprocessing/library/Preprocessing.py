@@ -20,15 +20,15 @@ class Preprocessing(object):
         return self.df_cp 
     
     
-    def set_starting_year(self, year):
+    def set_starting_year(self, year) -> None:
         self.starting_year = year
         
     
-    def set_final_year(self, year):
+    def set_final_year(self, year) -> None:
         self.final_year = year + 1
     
     
-    def set_header(self, df):
+    def set_header(self, df) -> None:
         self.df = pd_DataFrame(df.iloc[[0]])
     
     
@@ -36,7 +36,7 @@ class Preprocessing(object):
         return self.df_cp[(self.df_cp['YYYY'] == year) & (self.df_cp['class'] == label)]
     
     
-    def list_to_df(self, df, label):
+    def df_to_list(self, df, label) -> list:
         df = (df.mean())
         swap = []
         
@@ -47,13 +47,13 @@ class Preprocessing(object):
         return swap
     
     
-    def df_2_csv(self, path):
+    def df_2_csv(self, path) -> None:
         self.df.to_csv(path, encoding='utf-8', index=False)  
         
     
     def new_df(self, year, label):
         season = self.query_year_and_label(year, label)
-        season = self.list_to_df(season, label)
+        season = self.df_to_list(season, label)
         
         self.df.loc[self.index] = season
         del season
@@ -62,7 +62,7 @@ class Preprocessing(object):
         return self.df
         
         
-    def export(self, label, path):
+    def export(self, label, path) -> None:
         for i in range(self.starting_year, self.final_year):
             for j in label:
                 self.new_df(i, j)    
