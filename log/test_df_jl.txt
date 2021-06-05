@@ -1,0 +1,2005 @@
+┌ Info: 22.471821446
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001454345
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001284724
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001395388
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001509759
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001333013
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001260048
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001251135
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001280267
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001265295
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001249535
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00140702
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001264815
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001243789
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001263904
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001358827
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001390365
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001278427
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001236691
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001340718
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001321595
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001266458
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001247466
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001448762
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001402613
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001260318
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001359211
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001302049
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001278881
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00125816
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001346993
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001246893
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001264319
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00123693
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001230269
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001278891
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001437783
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001354874
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00128349
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001234795
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001234116
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001258664
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001235842
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001229637
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001338116
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001258334
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00123411
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001248113
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001270638
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001421912
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001329548
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001264901
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001234467
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001371258
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001335344
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001396207
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001569381
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00142168
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001407575
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001418568
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001528549
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001575387
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001428557
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001407564
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001460562
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001401296
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001461331
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00161975
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001576604
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001437416
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001424924
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00142898
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001640329
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00152166
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001440043
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001406169
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001393072
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001430162
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001405163
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001417364
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001433962
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001391866
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001435313
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001622374
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001449143
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001426101
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001463985
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001443995
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001453601
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001394002
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.002178721
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.002526133
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.002001011
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001725901
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001773871
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001787552
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001539319
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001455455
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001622256
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001701534
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00154809
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001584393
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00199272
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001515336
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001411843
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001411533
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001552193
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001451893
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001394094
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.021325769
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001414807
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001477104
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001318922
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001268374
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001312203
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001434072
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001276597
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001337654
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001487487
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001522887
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.0013377
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001265804
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001248413
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001322348
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001253031
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001242674
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001312382
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001247959
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001318294
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001332348
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001306702
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001382407
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001388372
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001257804
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00125209
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001253548
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001266129
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001292493
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001261391
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001232718
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001251867
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001945234
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.002124215
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.0015489
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001324904
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001543193
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001294017
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001240131
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00125556
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001241632
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00125997
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001312628
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00127657
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001240017
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001248294
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001372058
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001354458
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001298999
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001261501
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001230259
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001228184
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00123357
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00124569
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001235089
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001295519
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001354532
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001276035
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001278114
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001418217
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001275779
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001233591
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001226676
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00122735
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001252624
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001238403
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001272137
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00123904
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001221428
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001220766
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001230889
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001331897
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001323928
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001256135
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001224642
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00122256
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00128336
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001231453
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001228912
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001234982
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001486731
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001247033
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001247269
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001228267
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001434713
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001318662
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001226884
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001224345
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001266784
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001232716
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001223183
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00124533
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00123063
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001231846
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001256163
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001305887
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001324146
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001469208
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001272744
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001226176
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001238969
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001231886
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001220412
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001245784
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001250948
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001224685
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001222126
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001242097
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001310282
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001264926
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001645312
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001479791
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001488517
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001438344
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001396265
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001417574
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00140894
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00139838
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001433102
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001401875
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.010077218
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001331826
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00126082
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001314455
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001611157
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001499461
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001525741
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00154349
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001790418
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001702573
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001490307
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001447915
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001319674
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001328154
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00167328
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00149269
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001421701
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001837105
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001604463
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001369941
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001265656
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001272117
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001246908
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001246464
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00131326
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00134091
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001261642
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001262148
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00124192
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001417475
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001358947
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001241943
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001352019
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001281947
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001233055
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001232634
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00127408
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001239656
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00133362
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001330363
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001256054
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001247745
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001324902
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001242545
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001234987
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001263351
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001240721
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001332444
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001287994
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001236148
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001229209
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001245673
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001320232
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001276254
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001255997
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00127103
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001241496
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001251133
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001230479
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001231168
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001243802
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001242303
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001281768
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001338994
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001230081
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00130174
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001289835
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001286659
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001230142
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001265386
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.0013249
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001253099
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001240502
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001358239
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001241939
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001253583
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001233878
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001298314
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001461457
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001442374
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001271459
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001294978
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001230914
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00123192
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001241064
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001334321
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001377259
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00126902
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001233325
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.0019982
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.002397615
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00233711
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.002345612
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.002313202
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.002258224
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001908838
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001430003
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001258399
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001298295
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001259074
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001267267
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001233505
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001219902
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001239099
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001229337
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001219009
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001222079
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001231447
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001223795
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001223711
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001409171
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001343418
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001238644
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001261564
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001229213
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001222092
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001241349
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001271858
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001225202
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.008399538
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001353757
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001285162
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001292248
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001279092
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001311736
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001267215
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001262626
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001249501
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001250125
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001615244
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001422794
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001334511
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001263714
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00129268
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001290349
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001270063
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001271363
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001273885
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001237466
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001244182
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001913496
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00128051
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001335918
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00156305
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001388815
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001261652
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001242999
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001239946
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001232753
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00126207
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001249315
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.0012457
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001263584
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001240677
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001267177
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001361422
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001281421
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001233424
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001282785
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001249054
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001228589
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001280407
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001231479
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00122928
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001250963
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001291941
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001435662
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001346356
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001352487
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001268861
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001249923
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001234491
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001279886
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001280565
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001277139
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00122776
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00125755
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00126065
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001324088
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001366133
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001355908
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001445333
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001273702
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001236433
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001240227
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001259235
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001229465
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001227407
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001265873
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001240647
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001279446
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001245423
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001307361
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001307489
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00126031
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001263685
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001411987
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001278561
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001231268
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001221195
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001231623
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001226472
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001223992
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001232711
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001223908
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001373852
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001340513
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001255742
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001220769
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001223539
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001262925
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001249083
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.002027464
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001369373
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001236742
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001914779
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00228569
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001369755
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001238329
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001222808
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001254418
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001230164
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001224517
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001250345
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001230996
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00125288
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001266874
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001225624
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001223421
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001299805
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001286329
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001221422
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001349868
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001424896
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001253506
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001233781
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001230465
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001213274
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001257591
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.007981853
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001318611
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001256759
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001282348
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001389678
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001362199
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001272262
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001252271
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001249877
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001311299
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001293076
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001300265
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001317576
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001265504
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001248267
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001361581
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00130238
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001244027
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001255543
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001238052
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00143393
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001552661
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001440554
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001599233
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001329613
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001246488
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001253977
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001306888
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001305038
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001289119
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001259586
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001232068
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001231987
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001311956
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001271048
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001478614
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001319709
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001242328
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001234675
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001276873
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001239406
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001299597
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001331104
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001240669
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00125743
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001261684
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001245081
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001238056
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001467788
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001308226
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001268682
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001261423
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001235125
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001234003
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001247422
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001240263
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001221739
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001435288
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001258321
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001234859
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001285393
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001475317
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001277757
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001246185
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001291464
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001237899
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001246175
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00122921
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001220393
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001243029
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001226336
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001226546
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001470721
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001491197
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.0012559
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001247727
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001221063
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001221475
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001234442
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001213387
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001272934
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001254147
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001223288
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001218433
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001258147
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001226896
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001462163
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001311055
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001244627
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00122294
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001238802
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001223859
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001216068
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001220288
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001240381
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001348106
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001260381
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001245693
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001255123
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001461977
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001389667
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001302053
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001217133
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001266169
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001235028
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00121426
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001232125
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001215612
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001216547
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001226216
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001221214
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001414573
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001464691
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001245964
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001257992
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001256528
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001224799
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001247141
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001274082
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.006262994
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001463879
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001386661
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00147399
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00131755
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00127589
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001263846
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001274561
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001254085
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001248886
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001316003
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001256276
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001249637
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001278191
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001480922
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001291367
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001261586
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001240702
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00127063
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001262858
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001246561
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001249367
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001249654
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001238524
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001235407
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001322902
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001433925
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001530834
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001313224
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00123865
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001237061
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001250957
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001241414
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001265292
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001248273
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001227726
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.0012284
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001238064
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001328676
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001311532
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001572254
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001279425
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00125821
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001261023
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001237951
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001238341
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001245293
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001237117
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001267
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001262109
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.0012401
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001351911
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001410344
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001253082
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001236424
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001301243
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001426799
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001268285
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001253244
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001239188
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001228774
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001243881
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001277392
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001230097
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001567804
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001301298
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00122553
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001244383
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001255963
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001225638
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001258938
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001332541
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001224637
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001262005
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001221909
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001221491
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001228016
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001446275
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001473941
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001280307
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001229414
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001224534
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001222535
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001241804
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001215069
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001213283
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001372534
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001262232
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001332971
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001375959
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.002071454
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.002219808
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001882239
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001410492
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00129125
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001267896
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00131834
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001300973
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001269609
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001346688
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001604468
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001326687
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001218759
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001238367
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001239845
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001220901
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001221087
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001438697
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001261712
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001235276
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001266792
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001242777
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001360114
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001399647
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001253504
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001219471
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00121403
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001288324
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001221825
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00126083
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.006406621
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001348824
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00128509
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001281806
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001277511
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001322328
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001481347
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00131662
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001265976
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00125602
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001245436
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001307901
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001249243
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001288805
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001277366
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001243016
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001242523
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001279839
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001270733
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001434062
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001291452
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001500627
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001261681
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001266521
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001242506
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001324692
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001259633
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001243808
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001271094
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001271665
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001375131
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001501456
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001284974
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001247164
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001230246
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001253575
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001306857
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001263221
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001250509
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00123411
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001229574
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00124939
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001274334
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001260336
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001417355
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001287879
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00123419
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001254142
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001240704
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001229473
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001272318
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001317208
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001255184
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001277047
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001232766
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001231039
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001245665
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001339601
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001259745
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001258506
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00123113
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00150969
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001272188
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001230256
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001228136
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001315007
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001277236
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001238847
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001307728
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001431498
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001333393
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001303361
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001229568
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001220848
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001318581
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001266868
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001219409
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001230769
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001222657
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001221434
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001233024
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001262466
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001308755
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001295359
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001226464
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001219935
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001293473
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001218881
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001238515
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.0013015
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001270768
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001217287
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00123087
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001264014
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001278901
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001295551
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001288341
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001261341
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001223685
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001245274
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001257957
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001221039
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001289858
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001218988
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001236813
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00131267
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00123721
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001278458
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001312477
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001231884
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00121534
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001238575
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00122004
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001219439
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001224034
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001215798
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001208943
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001226879
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001222165
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.006232512
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001371063
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00125455
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001246948
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001290632
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001359541
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00129297
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001274562
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001255158
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001246512
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001370912
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001344584
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001270577
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001310543
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001254602
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001256169
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00126515
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001272199
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001245112
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00125891
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001284633
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001276098
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001263951
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001312357
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001314502
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001272782
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001233068
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001275785
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001324374
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001343532
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001349286
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001307987
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001254817
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001241876
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001250345
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001242793
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001574777
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001320219
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00123453
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001232592
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001249841
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001282226
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001244691
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001368541
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001277603
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00123307
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001254501
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001259354
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001272641
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001415928
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001291766
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001237277
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001243858
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001263553
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00123617
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001305828
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001224877
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001240916
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001408026
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001269088
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001222973
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001382305
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001380189
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001242712
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001269222
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001229835
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001249451
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001250507
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001223054
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00121937
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00121144
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00131524
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001227296
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001230825
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001554765
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001296363
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001245456
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001218923
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001217209
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001217644
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001238026
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001255653
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001235062
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001265715
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001229996
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001220081
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001339811
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001330933
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001276339
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001479207
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001248126
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001327677
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001262393
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001251899
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001224219
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001233814
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001214006
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001218085
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001232232
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001252591
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001328061
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001279133
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001214151
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001232164
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001249678
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001341276
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001231838
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00122592
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001212411
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001217228
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001226176
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001221225
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001253796
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001330077
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001275753
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001215251
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00121217
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001239001
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001213592
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001225229
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.006267229
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00134507
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001398853
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001387185
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001348773
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001328773
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001290847
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001269464
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001275088
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001254079
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001270453
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001345102
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001358377
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001269071
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001335497
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001317075
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001257086
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001273853
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001251603
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001429251
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001276651
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001241343
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001234387
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00126976
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001244159
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001327901
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001282396
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001392198
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001285233
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001257429
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001236334
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001283555
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001250668
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001248222
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00141388
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001284742
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001230878
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001229001
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001248349
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001370396
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001271249
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001245654
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00127337
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001234694
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001281516
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001240551
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001343795
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001270455
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001239948
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001262177
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001262382
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001227755
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.001378947
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00129107
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: 0.00122732
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:28
+┌ Info: mean
+│   avg = 0.023850916827999953
+└ @ Main /home/wellington/Code/Python/venv-rps/rps/test/df.jl:34
